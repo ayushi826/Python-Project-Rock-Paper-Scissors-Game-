@@ -1,2 +1,2 @@
 # python_project_
-This is a code of rock paper scissors Game 
+This is a code of Rock Paper Scissors Game 
